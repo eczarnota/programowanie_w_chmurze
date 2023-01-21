@@ -1,5 +1,5 @@
 # programowanie_w_chmurze
-Program wyświetlający wykres równania funckji kwadratowej na podstawie endpointów pobranych z adresu URL, przykład:
+Program wyświetlający wykres równania funckji kwadratowej na podstawie parametrów pobranych z adresu URL, przykład:
 http://localhost:5000/?a=-3&b=1&c=6&xmin=-5&xmax=5&ymin=-1&ymax=10
 gdzie:
 - a, b, c: parametry równania kwadratowego 
